@@ -17,10 +17,6 @@ age = 24
 print(f"My name is {fullName} and my age is {age} and my phone number is  {phoneNumber} ")
 
 
-
-
-
-
 ################## OPEARATIONS ##################
 
 # Addition
@@ -32,14 +28,11 @@ print(15 * 6)
 print(10 // 2)
 
 
-
 # DMAS
 #      60
 print( 5 + 10 * 6 - 40 / 8)
 
-
 print( 5 + (40 * 6) - 40 / 8)
-
 
 #4*4*4*4
 print(4 ** 4)
