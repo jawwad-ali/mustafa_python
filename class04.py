@@ -69,7 +69,3 @@ NIC_AGE = 18
 
 NIC_AGE = 18
 print(NIC_AGE <= 16)
-
-
-
-
