@@ -47,25 +47,3 @@ elif percentage >= 50:
 
 else:
     print("Fail")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
